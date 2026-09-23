@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Two interlinked rings: the tie between a caregiver and a child. -->
+  <rect width="512" height="512" fill="#f7f3ec" />
+  <circle cx="212" cy="256" r="88" fill="none" stroke="#2f6d62" stroke-width="36" />
+  <path
+    d="M 300 168 a 88 88 0 1 1 0 176 M 300 168 a 88 88 0 0 0 -74 40"
+    fill="none"
+    stroke="#a34a36"
+    stroke-width="36"
+    stroke-linecap="round"
+  />
+</svg>
