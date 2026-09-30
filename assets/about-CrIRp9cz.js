@@ -1,1 +1,0 @@
-import{R as t,j as n}from"./index-6r-Rf2ZU.js";import{L as r}from"./landing-eLCvLNJI.js";import"./children-BujMelIz.js";function i(){const{signedIn:o}=t.useLoaderData();return n.jsx(r,{signedIn:o})}export{i as component};
